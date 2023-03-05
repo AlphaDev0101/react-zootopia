@@ -1,4 +1,14 @@
-# Zootopia NFT Mint
-1.install : npm install
-2.start : npm start
-3.build : npm build
+
+## install  
+```npm install```  
+
+## dev  
+```npm start```  
+
+## build  
+```npm run build```  
+
+## tests
+```npm run test```  
+
+## provably-fair  
