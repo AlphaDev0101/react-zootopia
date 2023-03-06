@@ -1,0 +1,84 @@
+.contactus {
+  display: flex;
+  padding: 20px 300px;
+}
+
+.contactus h2 {
+  font-size: 30px;
+}
+
+.contactus p {
+  font-size: 18px;
+}
+
+ul {
+  padding: 0;
+}
+
+li {
+  color: white;
+  list-style: none;
+  font-size: 18px;
+  margin: 4px;
+}
+
+.contact-introduction {
+  width: 30%;
+  padding: 0 100px 0 0;
+  text-align: left;
+}
+
+.contact-introduction img {
+  margin: 0 auto;
+  display: flex;
+}
+
+.quicklinks {
+  width: 20%;
+  padding: 0 10px;
+  text-align: left;
+}
+
+.help {
+  width: 20%;
+  padding: 0 10px;
+  text-align: left;
+}
+
+.newsletter {
+  width: 30%;
+  padding: 0 10px;
+  text-align: left;
+}
+
+.email {
+  background-color: white;
+  border-radius: 100px;
+  width: 300px;
+  display: flex;
+  align-items: center;
+}
+
+input {
+  background: transparent;
+  height: 46px;
+  width: 302px;
+  border: none;
+  font-size: 18px;
+  padding: 18px;
+  outline: none;
+  width: 260px;
+  display: flex;
+  align-items: center;
+}
+
+.email svg {
+  color: rgba(113, 178, 90, 1);
+  font-size: 24px;
+}
+
+@media (max-width: 1600px) {
+  .contactus {
+    padding: 20px 150px;
+  }
+}

@@ -1,0 +1,85 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #001b18;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+html {
+  overflow-x: hidden;
+}
+
+p {
+  color: white;
+}
+
+h2 {
+  color: white;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.hide {
+  display: none;
+}
+
+button {
+  cursor: pointer;
+}
+
+@font-face {
+  font-family: "Orange";
+  src: local("Orange"), url(./styles/AgentOrange.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "Zootopia";
+  src: local("Zootopia"), url(./styles/Zootopia.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "WaltReg";
+  src: local("WaltReg"),
+    url(./styles/WaltDisneyFontRegular.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "WaltUi";
+  src: local("WaltUi"), url(./styles/WaltDisneyUi.ttf) format("truetype");
+}
+
+.f-orange {
+  font-family: "Orange";
+}
+
+.f-zootopia {
+  font-family: "Zootopia";
+}
+
+.f-waltreg {
+  font-family: "WaltReg";
+}
+
+.f-waltui {
+  font-family: "WaltUi";
+}
+
+.flex {
+  display: flex;
+}
