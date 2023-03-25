@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c6544252.css",
+    "main.js": "/static/js/main.9c2f9034.js",
+    "static/js/787.c5bd74ae.chunk.js": "/static/js/787.c5bd74ae.chunk.js",
+    "static/media/home-bg.png": "/static/media/home-bg.3fab9dc18e8752f44b98.png",
+    "static/media/play-game.png": "/static/media/play-game.872a568d7288d10d0871.png",
+    "static/media/all.png": "/static/media/all.99ca30e8dddc15f977b9.png",
+    "static/media/Sumiya.png": "/static/media/Sumiya.33023690bf9db23992fd.png",
+    "static/media/Tentra.png": "/static/media/Tentra.b043a2c30284d7e171e4.png",
+    "static/media/Okura.png": "/static/media/Okura.163a96d21bc9be79ea68.png",
+    "static/media/Yuki.png": "/static/media/Yuki.54bec0c0a88e50f7861c.png",
+    "static/media/Cousine.png": "/static/media/Cousine.420db82f30a62bac6a7b.png",
+    "static/media/blend.png": "/static/media/blend.862d6e9c954b60ce304c.png",
+    "static/media/Zootopia.ttf": "/static/media/Zootopia.d4b22b2722418755d1ee.ttf",
+    "static/media/sloth.png": "/static/media/sloth.fb06bb38238c1535badb.png",
+    "static/media/ox.png": "/static/media/ox.9a07774b5aa00af07c75.png",
+    "static/media/mr.png": "/static/media/mr.2da192a2187311ab5312.png",
+    "static/media/rabi-fox.png": "/static/media/rabi-fox.ae8e4c162dcbbb764910.png",
+    "static/media/furry.png": "/static/media/furry.0fdec8114c131d376d80.png",
+    "static/media/sheep.png": "/static/media/sheep.5377451f9978cd3f2471.png",
+    "static/media/otter.png": "/static/media/otter.fbe94249042b9548a827.png",
+    "static/media/fox.png": "/static/media/fox.803d0300fea58eac0414.png",
+    "static/media/carrot-rabbit.png": "/static/media/carrot-rabbit.77d286cddf90f08ce773.png",
+    "static/media/lion.png": "/static/media/lion.22656cd2c6a13a0ff5a2.png",
+    "static/media/buffelo.png": "/static/media/buffelo.ce900727aec42d8bfcbf.png",
+    "static/media/AgentOrange.ttf": "/static/media/AgentOrange.65b36cea4a2bc9e270f6.ttf",
+    "static/media/faq-rabbit.png": "/static/media/faq-rabbit.77a37a5e00c87e1be29c.png",
+    "static/media/WaltDisneyFontRegular.ttf": "/static/media/WaltDisneyFontRegular.5f6745bdfda03a98a1c1.ttf",
+    "static/media/WaltDisneyUi.ttf": "/static/media/WaltDisneyUi.8a8f0151a323740e2e99.ttf",
+    "static/media/logo.png": "/static/media/logo.a03abd2e03536c818252.png",
+    "index.html": "/index.html",
+    "main.c6544252.css.map": "/static/css/main.c6544252.css.map",
+    "main.9c2f9034.js.map": "/static/js/main.9c2f9034.js.map",
+    "787.c5bd74ae.chunk.js.map": "/static/js/787.c5bd74ae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6544252.css",
+    "static/js/main.9c2f9034.js"
+  ]
+}
