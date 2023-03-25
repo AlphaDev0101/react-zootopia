@@ -1,45 +1,45 @@
-import { useState } from "react"
+import { useState } from "react";
 
-import sheep from "../img/sheep.png"
-import rabbit from "../img/faq-rabbit.png"
-import carrot_rabbit from "../img/carrot-rabbit.png"
-import rab_fox from "../img/rabi-fox.png"
-import lion from "../img/lion.png"
-import buffelo from "../img/buffelo.png"
-import ox from "../img/ox.png"
-import sloth from "../img/sloth.png"
-import furry from "../img/furry.png"
-import otter from "../img/otter.png"
-import mr from "../img/mr.png"
-import fox from "../img/fox.png"
-import "../styles/faq.css"
+import sheep from "../img/sheep.png";
+import rabbit from "../img/faq-rabbit.png";
+import carrot_rabbit from "../img/carrot-rabbit.png";
+import rab_fox from "../img/rabi-fox.png";
+import lion from "../img/lion.png";
+import buffelo from "../img/buffelo.png";
+import ox from "../img/ox.png";
+import sloth from "../img/sloth.png";
+import furry from "../img/furry.png";
+import otter from "../img/otter.png";
+import mr from "../img/mr.png";
+import fox from "../img/fox.png";
+import "../styles/faq.css";
 
-const faq = () => {
-  const [mintprice, setMintprice] = useState(false)
-  const [mintdate, setMintdate] = useState(false)
-  const [mintcount, setMintcount] = useState(false)
-  const [presale, setPresale] = useState(false)
-  const [benefit, setBenefit] = useState(false)
-  const [reveal, setReveal] = useState(false)
+const Faq = () => {
+  const [mintprice, setMintprice] = useState(false);
+  const [mintdate, setMintdate] = useState(false);
+  const [mintcount, setMintcount] = useState(false);
+  const [presale, setPresale] = useState(false);
+  const [benefit, setBenefit] = useState(false);
+  const [reveal, setReveal] = useState(false);
 
   const mintPrice = () => {
-    setMintprice(!mintprice)
-  }
+    setMintprice(!mintprice);
+  };
   const mintDate = () => {
-    setMintdate(!mintdate)
-  }
+    setMintdate(!mintdate);
+  };
   const mintCount = () => {
-    setMintcount(!mintcount)
-  }
+    setMintcount(!mintcount);
+  };
   const Presale = () => {
-    setPresale(!presale)
-  }
+    setPresale(!presale);
+  };
   const Benefit = () => {
-    setBenefit(!benefit)
-  }
+    setBenefit(!benefit);
+  };
   const Reveal = () => {
-    setReveal(!reveal)
-  }
+    setReveal(!reveal);
+  };
 
   return (
     <div className="faq">
@@ -176,7 +176,7 @@ const faq = () => {
         </div>
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default faq
+export default Faq;
